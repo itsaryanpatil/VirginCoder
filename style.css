@@ -1,0 +1,24 @@
+/* *{
+    margin:0;
+    padding:0;
+}*/
+#main-header{
+    text-align: center;
+    color:green;
+}
+.container{
+    width: 90%;
+}
+.section-buttons{
+    float: 33.3%;
+    width:30%;
+    text-align: center;
+}
+.subject-buttons{
+    float: 20%;
+    width:19%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
